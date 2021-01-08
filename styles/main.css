@@ -7299,3 +7299,23 @@ a.credit {
 .section {
   padding-bottom: 0;
 }
+
+.c-p {
+  margin-top: 40%;
+}
+
+.csip {
+  margin-top: 12%;
+}
+
+.pgpl, .vpfr{
+  margin-top: 18%;
+}
+
+.gud-header {
+  margin-top: 60%;
+}
+
+.vplayed-header {
+  margin-top: 50%;
+}
